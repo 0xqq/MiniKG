@@ -1,1 +1,0 @@
-/Users/baidu/code/MiniKG/thirdparty/pugixml/CMakeFiles/pugixml.dir
